@@ -35,8 +35,6 @@
 </p>
 
 ### 🔍 Core Skills  
-<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-
 - **Programming:** Java (DSA), Python, C  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
@@ -66,8 +64,6 @@
 ## 🚀 Projects  
 
 ### 🏆 Featured Project  
-<img align="right" width="320" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
-
 - 🏅 **AI-Based Sports Performance Analysis & Ranking System**  
   - 👁️ Uses **Computer Vision** for player tracking  
   - 📊 Performance metrics extraction  
@@ -77,7 +73,6 @@
 ---
 
 ### 💡 Other Projects  
-
 <img align="right" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 - 🏦 **Bank Management System (Java, Swing, MySQL)**  
